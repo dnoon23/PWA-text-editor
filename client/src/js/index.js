@@ -1,5 +1,3 @@
-/* No work for you here either. Go have a cookie. */
-
 import { Workbox } from 'workbox-window';
 import Editor from './editor';
 import './database';
