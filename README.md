@@ -3,7 +3,7 @@
 ## Description
 
 Git Repo: https://dnoon23.github.io/portfolio/ <p>
-Heroku deployment: 
+Heroku deployment: https://dnoon23-pwa-text-editor-ab67b5afd607.herokuapp.com/
 <p>
 This project was to create a PWA text editor that allowed the user to be able to write code whether on or offline.  </p>
 
